@@ -1,4 +1,4 @@
-# 🚀 Blockchain Project – XXX
+# 🚀 Blockchain Project – Micro-Savings-Piggy-Bank
 
 ## 🧩 Project Description
 This project is built on the **Celo Blockchain** network and demonstrates how to interact with smart contracts in a decentralized way.  
